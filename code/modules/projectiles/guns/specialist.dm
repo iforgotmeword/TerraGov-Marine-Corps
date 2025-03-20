@@ -401,7 +401,7 @@ Note that this means that snipers will have a slowdown of 3, due to the scope
 		)
 	w_class = WEIGHT_CLASS_HUGE
 	force = 20
-	wield_delay = 1.2 SECONDS
+	wield_delay = 1.6 SECONDS
 	gun_skill_category = SKILL_HEAVY_WEAPONS
 	aim_slowdown = 0.8
 	gun_features_flags = GUN_WIELDED_FIRING_ONLY|GUN_AMMO_COUNTER|GUN_SMOKE_PARTICLES
@@ -411,8 +411,8 @@ Note that this means that snipers will have a slowdown of 3, due to the scope
 	aim_fire_delay = 0.1 SECONDS
 	aim_speed_modifier = 12
 
-	fire_delay = 0.15 SECONDS
-	windup_delay = 0.4 SECONDS
+	fire_delay = 0.07 SECONDS
+	windup_delay = 0.6 SECONDS
 	windup_sound = 'sound/weapons/guns/fire/tank_minigun_start.ogg'
 	scatter = 5
 	recoil_unwielded = 4
